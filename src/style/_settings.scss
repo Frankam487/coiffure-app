@@ -1,0 +1,17 @@
+@font-face {
+  font-family: 'Allura';
+  src: url('../fonts/Allura/Allura-Regular.ttf') format('woff2'),
+    url('../fonts/Allura/Allura-Regular.ttf') format('woff');
+}
+
+img {
+  object-fit: cover;
+
+}
+
+.logo {
+  background: url(../../public/istockphoto-487512681-1024x1024.jpg)center/cover;
+  height: 60px;
+  width: 90px;
+  border-radius: 50%;
+}
